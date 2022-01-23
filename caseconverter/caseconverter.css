@@ -214,4 +214,5 @@ header .imagetext .headertext{
 
 .sidebar.close .copyright a{
     pointer-events:none;
+    cursor: default;
 }
