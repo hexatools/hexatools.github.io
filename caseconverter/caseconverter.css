@@ -211,3 +211,7 @@ header .imagetext .headertext{
     /* Drag - All */
     -webkit-user-drag: none;
 }
+
+.sidebar.close .copyright a{
+    pointer-events:none;
+}
