@@ -117,7 +117,7 @@ header .imagetext .headertext{
 }
 
 .sidebar .menubar{
-    height: calc(100% - 50px);
+    height: calc(100% - 70px);
     display: flex;
     flex-direction: column;
     justify-content: space-between;
